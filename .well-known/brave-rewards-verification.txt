@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: devanshprajapati.ml
-Token: ec287a983319822745873268d17f14261163c089184ef24383aa62637889c397
+Token: 2878b9e412eeaf77491abbd66d8a9b6e87cefa55c9b133c18056953e0704636b
